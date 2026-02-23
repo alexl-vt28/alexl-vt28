@@ -1,8 +1,12 @@
 # 💫 About Me:
 I'm currently studying Cybersecurity and Networking at Virginia Polytechnic Institute and State University
+
 Personal projects include developing "Home Lab" system utilizing recycled enterprise grade hardware
+
 Intrests include cybersecurity, networking, AI, machine learning, data analytics, and homeland security
+
 ISC2 CC Certified | [Expected March 2026]
+
 Cisco CCST Certified | [Expected April 2026]
 
 
