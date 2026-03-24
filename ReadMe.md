@@ -5,7 +5,7 @@ Personal projects include developing "Home Lab" system utilizing recycled enterp
 
 Intrests include cybersecurity, networking, AI, machine learning, data analytics, and homeland security
 
-ISC2 CC Certified | [Expected March 2026]
+ISC2 CC Certified | [March 2026]
 
 Cisco CCST Certified | [Expected April 2026]
 
